@@ -1,0 +1,6 @@
+/* A word the quote drops between md and lg so it keeps its three lines there. */
+@media (width >= 48rem) and (width < 64rem) {
+  .startups-quote-trim {
+    display: none;
+  }
+}

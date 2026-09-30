@@ -1,0 +1,72 @@
+[
+ {
+  "file": "00-enrichment",
+  "component": "Enrichment",
+  "name": "enrichment"
+ },
+ {
+  "file": "01-block",
+  "component": "Block",
+  "name": "block"
+ },
+ {
+  "file": "02-ready-before-you-ask",
+  "component": "ReadyBeforeYouAsk",
+  "name": "ready-before-you-ask"
+ },
+ {
+  "file": "03-block-3",
+  "component": "Block3",
+  "name": "block-3"
+ },
+ {
+  "file": "04-records-carry-the-real",
+  "component": "RecordsCarryTheReal",
+  "name": "records-carry-the-real"
+ },
+ {
+  "file": "05-put-your-own-spin",
+  "component": "PutYourOwnSpin",
+  "name": "put-your-own-spin"
+ },
+ {
+  "file": "06-block-6",
+  "component": "Block6",
+  "name": "block-6"
+ },
+ {
+  "file": "07-block-7",
+  "component": "Block7",
+  "name": "block-7"
+ },
+ {
+  "file": "08-block-8",
+  "component": "Block8",
+  "name": "block-8"
+ },
+ {
+  "file": "09-enriched-data-that-goes",
+  "component": "EnrichedDataThatGoes",
+  "name": "enriched-data-that-goes"
+ },
+ {
+  "file": "10-block-10",
+  "component": "Block10",
+  "name": "block-10"
+ },
+ {
+  "file": "11-joshuattio-plugs-in-you",
+  "component": "JoshuattioPlugsInYou",
+  "name": "joshuattio-plugs-in-you"
+ },
+ {
+  "file": "12-block-12",
+  "component": "Block12",
+  "name": "block-12"
+ },
+ {
+  "file": "13-ask-more-from-crm",
+  "component": "AskMoreFromCrm",
+  "name": "ask-more-from-crm"
+ }
+]

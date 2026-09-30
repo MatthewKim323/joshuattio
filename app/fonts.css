@@ -1,0 +1,3 @@
+/* The serif face is a system serif stand-in (the commercial original is not shipped). */
+@font-face { font-family: tiemposText; src: local("Georgia"), local("Times New Roman"); font-weight: 400; font-style: normal; font-display: swap; }
+@font-face { font-family: tiemposText; src: local("Georgia Italic"), local("Georgia"); font-weight: 400; font-style: italic; font-display: swap; }

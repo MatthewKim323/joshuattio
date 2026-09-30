@@ -1,0 +1,12 @@
+[
+ {
+  "file": "00-slack",
+  "component": "Slack",
+  "name": "slack"
+ },
+ {
+  "file": "01-block",
+  "component": "Block",
+  "name": "block"
+ }
+]

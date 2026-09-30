@@ -1,0 +1,62 @@
+[
+ {
+  "file": "00-ask-joshuattio",
+  "component": "AskJoshuattio",
+  "name": "ask-joshuattio"
+ },
+ {
+  "file": "01-block",
+  "component": "Block",
+  "name": "block"
+ },
+ {
+  "file": "02-simply-powerful-customer-intelligence",
+  "component": "SimplyPowerfulCustomerIntelligence",
+  "name": "simply-powerful-customer-intelligence"
+ },
+ {
+  "file": "03-block-3",
+  "component": "Block3",
+  "name": "block-3"
+ },
+ {
+  "file": "04-universal-context-tm",
+  "component": "UniversalContextTm",
+  "name": "universal-context-tm"
+ },
+ {
+  "file": "05-block-5",
+  "component": "Block5",
+  "name": "block-5"
+ },
+ {
+  "file": "06-intelligence-built-for-how",
+  "component": "IntelligenceBuiltForHow",
+  "name": "intelligence-built-for-how"
+ },
+ {
+  "file": "07-block-7",
+  "component": "Block7",
+  "name": "block-7"
+ },
+ {
+  "file": "08-from-one-expert-to",
+  "component": "FromOneExpertTo",
+  "name": "from-one-expert-to"
+ },
+ {
+  "file": "09-block-9",
+  "component": "Block9",
+  "name": "block-9"
+ },
+ {
+  "file": "10-block-10",
+  "component": "Block10",
+  "name": "block-10"
+ },
+ {
+  "file": "11-ask-more-from-crm",
+  "component": "AskMoreFromCrm",
+  "name": "ask-more-from-crm"
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "file": "00-talk-to-sales",
+  "component": "TalkToSales",
+  "name": "talk-to-sales"
+ },
+ {
+  "file": "01-talk-to-sales-1",
+  "component": "TalkToSales1",
+  "name": "talk-to-sales-1"
+ }
+]

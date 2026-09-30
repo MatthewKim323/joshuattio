@@ -1,0 +1,67 @@
+[
+ {
+  "file": "00-custom-agents",
+  "component": "CustomAgents",
+  "name": "custom-agents"
+ },
+ {
+  "file": "01-block",
+  "component": "Block",
+  "name": "block"
+ },
+ {
+  "file": "02-logos",
+  "component": "Logos",
+  "name": "logos"
+ },
+ {
+  "file": "03-block-3",
+  "component": "Block3",
+  "name": "block-3"
+ },
+ {
+  "file": "04-you-choose-how-it",
+  "component": "YouChooseHowIt",
+  "name": "you-choose-how-it"
+ },
+ {
+  "file": "05-block-5",
+  "component": "Block5",
+  "name": "block-5"
+ },
+ {
+  "file": "06-the-judgment-calls-only",
+  "component": "TheJudgmentCallsOnly",
+  "name": "the-judgment-calls-only"
+ },
+ {
+  "file": "07-already-doing-the-work",
+  "component": "AlreadyDoingTheWork",
+  "name": "already-doing-the-work"
+ },
+ {
+  "file": "08-block-8",
+  "component": "Block8",
+  "name": "block-8"
+ },
+ {
+  "file": "09-watch-your-agent-work",
+  "component": "WatchYourAgentWork",
+  "name": "watch-your-agent-work"
+ },
+ {
+  "file": "10-block-10",
+  "component": "Block10",
+  "name": "block-10"
+ },
+ {
+  "file": "11-every-account-same-standard",
+  "component": "EveryAccountSameStandard",
+  "name": "every-account-same-standard"
+ },
+ {
+  "file": "12-ask-more-from-crm",
+  "component": "AskMoreFromCrm",
+  "name": "ask-more-from-crm"
+ }
+]

@@ -1,0 +1,67 @@
+[
+ {
+  "file": "00-creator-partners",
+  "component": "CreatorPartners",
+  "name": "creator-partners"
+ },
+ {
+  "file": "01-divider",
+  "component": "Divider",
+  "name": "divider"
+ },
+ {
+  "file": "02-creators-shape-the-future",
+  "component": "CreatorsShapeTheFuture",
+  "name": "creators-shape-the-future"
+ },
+ {
+  "file": "03-divider-3",
+  "component": "Divider3",
+  "name": "divider-3"
+ },
+ {
+  "file": "04-perks-benefits",
+  "component": "PerksBenefits",
+  "name": "perks-benefits"
+ },
+ {
+  "file": "05-divider-5",
+  "component": "Divider5",
+  "name": "divider-5"
+ },
+ {
+  "file": "06-creator-partner-applications-are",
+  "component": "CreatorPartnerApplicationsAre",
+  "name": "creator-partner-applications-are"
+ },
+ {
+  "file": "07-divider-7",
+  "component": "Divider7",
+  "name": "divider-7"
+ },
+ {
+  "file": "08-block",
+  "component": "Block",
+  "name": "block"
+ },
+ {
+  "file": "09-divider-9",
+  "component": "Divider9",
+  "name": "divider-9"
+ },
+ {
+  "file": "10-frequently-asked-questions",
+  "component": "FrequentlyAskedQuestions",
+  "name": "frequently-asked-questions"
+ },
+ {
+  "file": "11-divider-11",
+  "component": "Divider11",
+  "name": "divider-11"
+ },
+ {
+  "file": "12-different-ways-to-partner",
+  "component": "DifferentWaysToPartner",
+  "name": "different-ways-to-partner"
+ }
+]

@@ -1,0 +1,87 @@
+[
+ {
+  "file": "00-header",
+  "component": "Header",
+  "name": "header"
+ },
+ {
+  "file": "01-hero",
+  "component": "Hero",
+  "name": "hero"
+ },
+ {
+  "file": "02-logos",
+  "component": "Logos",
+  "name": "logos"
+ },
+ {
+  "file": "03-pillars",
+  "component": "Pillars",
+  "name": "pillars"
+ },
+ {
+  "file": "04-divider",
+  "component": "Divider",
+  "name": "divider"
+ },
+ {
+  "file": "05-self-building",
+  "component": "SelfBuilding",
+  "name": "self-building"
+ },
+ {
+  "file": "06-divider-6",
+  "component": "Divider6",
+  "name": "divider-6"
+ },
+ {
+  "file": "07-universal-context",
+  "component": "UniversalContext",
+  "name": "universal-context"
+ },
+ {
+  "file": "08-divider-8",
+  "component": "Divider8",
+  "name": "divider-8"
+ },
+ {
+  "file": "09-scale",
+  "component": "Scale",
+  "name": "scale"
+ },
+ {
+  "file": "10-customers",
+  "component": "Customers",
+  "name": "customers"
+ },
+ {
+  "file": "11-spacer",
+  "component": "Spacer",
+  "name": "spacer"
+ },
+ {
+  "file": "12-divider-12",
+  "component": "Divider12",
+  "name": "divider-12"
+ },
+ {
+  "file": "13-changelog",
+  "component": "Changelog",
+  "name": "changelog"
+ },
+ {
+  "file": "14-spacer-14",
+  "component": "Spacer14",
+  "name": "spacer-14"
+ },
+ {
+  "file": "15-cta",
+  "component": "Cta",
+  "name": "cta"
+ },
+ {
+  "file": "16-footer",
+  "component": "Footer",
+  "name": "footer"
+ }
+]

@@ -1,0 +1,6 @@
+/* Copy trims that only apply between the md and lg breakpoints, where the brand name would add a wrapped line. */
+@media (width >= 48rem) and (width < 64rem) {
+  .enrichment-tablet-hide {
+    display: none;
+  }
+}

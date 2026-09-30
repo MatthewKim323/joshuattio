@@ -1,0 +1,12 @@
+[
+ {
+  "file": "00-claude",
+  "component": "Claude",
+  "name": "claude"
+ },
+ {
+  "file": "01-block",
+  "component": "Block",
+  "name": "block"
+ }
+]

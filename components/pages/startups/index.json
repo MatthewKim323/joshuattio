@@ -1,0 +1,57 @@
+[
+ {
+  "file": "00-startup-program",
+  "component": "StartupProgram",
+  "name": "startup-program"
+ },
+ {
+  "file": "01-block",
+  "component": "Block",
+  "name": "block"
+ },
+ {
+  "file": "02-80-off-joshuattio-benefits",
+  "component": "S80OffJoshuattioBenefits",
+  "name": "80-off-joshuattio-benefits"
+ },
+ {
+  "file": "03-block-3",
+  "component": "Block3",
+  "name": "block-3"
+ },
+ {
+  "file": "04-the-crm-that-grows",
+  "component": "TheCrmThatGrows",
+  "name": "the-crm-that-grows"
+ },
+ {
+  "file": "05-block-5",
+  "component": "Block5",
+  "name": "block-5"
+ },
+ {
+  "file": "06-some-of-our-startup",
+  "component": "SomeOfOurStartup",
+  "name": "some-of-our-startup"
+ },
+ {
+  "file": "07-block-7",
+  "component": "Block7",
+  "name": "block-7"
+ },
+ {
+  "file": "08-the-tools-you-re",
+  "component": "TheToolsYouRe",
+  "name": "the-tools-you-re"
+ },
+ {
+  "file": "09-block-9",
+  "component": "Block9",
+  "name": "block-9"
+ },
+ {
+  "file": "10-frequently-asked-questions",
+  "component": "FrequentlyAskedQuestions",
+  "name": "frequently-asked-questions"
+ }
+]

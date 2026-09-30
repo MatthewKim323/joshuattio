@@ -1,0 +1,17 @@
+[
+ {
+  "file": "00-divider",
+  "component": "Divider",
+  "name": "divider"
+ },
+ {
+  "file": "01-workflow-history-and-agent",
+  "component": "WorkflowHistoryAndAgent",
+  "name": "workflow-history-and-agent"
+ },
+ {
+  "file": "02-block",
+  "component": "Block",
+  "name": "block"
+ }
+]

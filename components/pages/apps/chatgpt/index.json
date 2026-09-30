@@ -1,0 +1,12 @@
+[
+ {
+  "file": "00-chatgpt",
+  "component": "Chatgpt",
+  "name": "chatgpt"
+ },
+ {
+  "file": "01-block",
+  "component": "Block",
+  "name": "block"
+ }
+]

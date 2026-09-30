@@ -1,0 +1,77 @@
+[
+ {
+  "file": "00-universal-context",
+  "component": "UniversalContext",
+  "name": "universal-context"
+ },
+ {
+  "file": "01-block",
+  "component": "Block",
+  "name": "block"
+ },
+ {
+  "file": "02-logos",
+  "component": "Logos",
+  "name": "logos"
+ },
+ {
+  "file": "03-block-3",
+  "component": "Block3",
+  "name": "block-3"
+ },
+ {
+  "file": "04-all-of-the-signals",
+  "component": "AllOfTheSignals",
+  "name": "all-of-the-signals"
+ },
+ {
+  "file": "05-block-5",
+  "component": "Block5",
+  "name": "block-5"
+ },
+ {
+  "file": "06-the-engine-behind-every",
+  "component": "TheEngineBehindEvery",
+  "name": "the-engine-behind-every"
+ },
+ {
+  "file": "07-block-7",
+  "component": "Block7",
+  "name": "block-7"
+ },
+ {
+  "file": "08-trust-every-answer-control",
+  "component": "TrustEveryAnswerControl",
+  "name": "trust-every-answer-control"
+ },
+ {
+  "file": "09-block-9",
+  "component": "Block9",
+  "name": "block-9"
+ },
+ {
+  "file": "10-built-like-infrastructure",
+  "component": "BuiltLikeInfrastructure",
+  "name": "built-like-infrastructure"
+ },
+ {
+  "file": "11-block-11",
+  "component": "Block11",
+  "name": "block-11"
+ },
+ {
+  "file": "12-a-win-in-every",
+  "component": "AWinInEvery",
+  "name": "a-win-in-every"
+ },
+ {
+  "file": "13-block-13",
+  "component": "Block13",
+  "name": "block-13"
+ },
+ {
+  "file": "14-ask-more-from-crm",
+  "component": "AskMoreFromCrm",
+  "name": "ask-more-from-crm"
+ }
+]

@@ -1,0 +1,82 @@
+[
+ {
+  "file": "00-call-intelligence",
+  "component": "CallIntelligence",
+  "name": "call-intelligence"
+ },
+ {
+  "file": "01-block",
+  "component": "Block",
+  "name": "block"
+ },
+ {
+  "file": "02-from-hello-to-handoff",
+  "component": "FromHelloToHandoff",
+  "name": "from-hello-to-handoff"
+ },
+ {
+  "file": "03-block-3",
+  "component": "Block3",
+  "name": "block-3"
+ },
+ {
+  "file": "04-block-4",
+  "component": "Block4",
+  "name": "block-4"
+ },
+ {
+  "file": "05-block-5",
+  "component": "Block5",
+  "name": "block-5"
+ },
+ {
+  "file": "06-one-conversation-limitless-insights",
+  "component": "OneConversationLimitlessInsights",
+  "name": "one-conversation-limitless-insights"
+ },
+ {
+  "file": "07-block-7",
+  "component": "Block7",
+  "name": "block-7"
+ },
+ {
+  "file": "08-instant-sync-zero-setup",
+  "component": "InstantSyncZeroSetup",
+  "name": "instant-sync-zero-setup"
+ },
+ {
+  "file": "09-block-9",
+  "component": "Block9",
+  "name": "block-9"
+ },
+ {
+  "file": "10-take-a-look-at",
+  "component": "TakeALookAt",
+  "name": "take-a-look-at"
+ },
+ {
+  "file": "11-block-11",
+  "component": "Block11",
+  "name": "block-11"
+ },
+ {
+  "file": "12-follow-up-without-friction",
+  "component": "FollowUpWithoutFriction",
+  "name": "follow-up-without-friction"
+ },
+ {
+  "file": "13-block-13",
+  "component": "Block13",
+  "name": "block-13"
+ },
+ {
+  "file": "14-joshuattio-plugs-in-you",
+  "component": "JoshuattioPlugsInYou",
+  "name": "joshuattio-plugs-in-you"
+ },
+ {
+  "file": "15-cta",
+  "component": "Cta",
+  "name": "cta"
+ }
+]

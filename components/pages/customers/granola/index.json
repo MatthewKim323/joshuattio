@@ -1,0 +1,12 @@
+[
+ {
+  "file": "00-how-granola-turns-product",
+  "component": "HowGranolaTurnsProduct",
+  "name": "how-granola-turns-product"
+ },
+ {
+  "file": "01-the-crm-behind-thousands",
+  "component": "TheCrmBehindThousands",
+  "name": "the-crm-behind-thousands"
+ }
+]

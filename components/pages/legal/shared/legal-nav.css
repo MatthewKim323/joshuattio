@@ -1,0 +1,6 @@
+/* the document list keeps a fixed basis beside the text column, so the column wraps the same way at every width */
+@media (min-width: 64rem) {
+  .legal-nav {
+    flex-basis: 247.4px;
+  }
+}

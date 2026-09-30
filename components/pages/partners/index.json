@@ -1,0 +1,37 @@
+[
+ {
+  "file": "00-partner-programs",
+  "component": "PartnerPrograms",
+  "name": "partner-programs"
+ },
+ {
+  "file": "01-block",
+  "component": "Block",
+  "name": "block"
+ },
+ {
+  "file": "02-01-app-partners",
+  "component": "S01AppPartners",
+  "name": "01-app-partners"
+ },
+ {
+  "file": "03-block-3",
+  "component": "Block3",
+  "name": "block-3"
+ },
+ {
+  "file": "04-expert-partners",
+  "component": "ExpertPartners",
+  "name": "expert-partners"
+ },
+ {
+  "file": "05-block-5",
+  "component": "Block5",
+  "name": "block-5"
+ },
+ {
+  "file": "06-keep-up-to-date",
+  "component": "KeepUpToDate",
+  "name": "keep-up-to-date"
+ }
+]

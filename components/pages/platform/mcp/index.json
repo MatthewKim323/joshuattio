@@ -1,0 +1,92 @@
+[
+ {
+  "file": "00-mcp",
+  "component": "Mcp",
+  "name": "mcp"
+ },
+ {
+  "file": "01-block",
+  "component": "Block",
+  "name": "block"
+ },
+ {
+  "file": "02-ready-where-you-are",
+  "component": "ReadyWhereYouAre",
+  "name": "ready-where-you-are"
+ },
+ {
+  "file": "03-block-3",
+  "component": "Block3",
+  "name": "block-3"
+ },
+ {
+  "file": "04-nothing-gets-lost-in",
+  "component": "NothingGetsLostIn",
+  "name": "nothing-gets-lost-in"
+ },
+ {
+  "file": "05-block-5",
+  "component": "Block5",
+  "name": "block-5"
+ },
+ {
+  "file": "06-your-workspace-where-you",
+  "component": "YourWorkspaceWhereYou",
+  "name": "your-workspace-where-you"
+ },
+ {
+  "file": "07-block-7",
+  "component": "Block7",
+  "name": "block-7"
+ },
+ {
+  "file": "08-endless-possibilities-for-every",
+  "component": "EndlessPossibilitiesForEvery",
+  "name": "endless-possibilities-for-every"
+ },
+ {
+  "file": "09-block-9",
+  "component": "Block9",
+  "name": "block-9"
+ },
+ {
+  "file": "10-how-thousands-of-teams",
+  "component": "HowThousandsOfTeams",
+  "name": "how-thousands-of-teams"
+ },
+ {
+  "file": "11-block-11",
+  "component": "Block11",
+  "name": "block-11"
+ },
+ {
+  "file": "12-logos",
+  "component": "Logos",
+  "name": "logos"
+ },
+ {
+  "file": "13-block-13",
+  "component": "Block13",
+  "name": "block-13"
+ },
+ {
+  "file": "14-connected-in-a-click",
+  "component": "ConnectedInAClick",
+  "name": "connected-in-a-click"
+ },
+ {
+  "file": "15-block-15",
+  "component": "Block15",
+  "name": "block-15"
+ },
+ {
+  "file": "16-keep-up-to-date",
+  "component": "KeepUpToDate",
+  "name": "keep-up-to-date"
+ },
+ {
+  "file": "17-ask-more-from-crm",
+  "component": "AskMoreFromCrm",
+  "name": "ask-more-from-crm"
+ }
+]

@@ -1,0 +1,47 @@
+[
+ {
+  "file": "00-customers",
+  "component": "Customers",
+  "name": "customers"
+ },
+ {
+  "file": "01-block",
+  "component": "Block",
+  "name": "block"
+ },
+ {
+  "file": "02-block-2",
+  "component": "Block2",
+  "name": "block-2"
+ },
+ {
+  "file": "03-83-faster-lead-triage",
+  "component": "S83FasterLeadTriage",
+  "name": "83-faster-lead-triage"
+ },
+ {
+  "file": "04-block-4",
+  "component": "Block4",
+  "name": "block-4"
+ },
+ {
+  "file": "05-block-5",
+  "component": "Block5",
+  "name": "block-5"
+ },
+ {
+  "file": "06-block-6",
+  "component": "Block6",
+  "name": "block-6"
+ },
+ {
+  "file": "07-block-7",
+  "component": "Block7",
+  "name": "block-7"
+ },
+ {
+  "file": "08-the-crm-behind-thousands",
+  "component": "TheCrmBehindThousands",
+  "name": "the-crm-behind-thousands"
+ }
+]

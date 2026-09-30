@@ -1,0 +1,47 @@
+[
+ {
+  "file": "00-refer-and-earn-200",
+  "component": "ReferAndEarn200",
+  "name": "refer-and-earn-200"
+ },
+ {
+  "file": "01-block",
+  "component": "Block",
+  "name": "block"
+ },
+ {
+  "file": "02-block-2",
+  "component": "Block2",
+  "name": "block-2"
+ },
+ {
+  "file": "03-block-3",
+  "component": "Block3",
+  "name": "block-3"
+ },
+ {
+  "file": "04-how-it-works",
+  "component": "HowItWorks",
+  "name": "how-it-works"
+ },
+ {
+  "file": "05-block-5",
+  "component": "Block5",
+  "name": "block-5"
+ },
+ {
+  "file": "06-frequently-asked-questions",
+  "component": "FrequentlyAskedQuestions",
+  "name": "frequently-asked-questions"
+ },
+ {
+  "file": "07-block-7",
+  "component": "Block7",
+  "name": "block-7"
+ },
+ {
+  "file": "08-start-referring-today",
+  "component": "StartReferringToday",
+  "name": "start-referring-today"
+ }
+]

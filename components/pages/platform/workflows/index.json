@@ -1,0 +1,82 @@
+[
+ {
+  "file": "00-workflows",
+  "component": "Workflows",
+  "name": "workflows"
+ },
+ {
+  "file": "01-block",
+  "component": "Block",
+  "name": "block"
+ },
+ {
+  "file": "02-logos",
+  "component": "Logos",
+  "name": "logos"
+ },
+ {
+  "file": "03-block-3",
+  "component": "Block3",
+  "name": "block-3"
+ },
+ {
+  "file": "04-cue-the-agents",
+  "component": "CueTheAgents",
+  "name": "cue-the-agents"
+ },
+ {
+  "file": "05-block-5",
+  "component": "Block5",
+  "name": "block-5"
+ },
+ {
+  "file": "06-hire-the-best-rep",
+  "component": "HireTheBestRep",
+  "name": "hire-the-best-rep"
+ },
+ {
+  "file": "07-block-7",
+  "component": "Block7",
+  "name": "block-7"
+ },
+ {
+  "file": "08-block-8",
+  "component": "Block8",
+  "name": "block-8"
+ },
+ {
+  "file": "09-block-9",
+  "component": "Block9",
+  "name": "block-9"
+ },
+ {
+  "file": "10-from-idea-to-live",
+  "component": "FromIdeaToLive",
+  "name": "from-idea-to-live"
+ },
+ {
+  "file": "11-universal-context-tm",
+  "component": "UniversalContextTm",
+  "name": "universal-context-tm"
+ },
+ {
+  "file": "12-built-for-the-long",
+  "component": "BuiltForTheLong",
+  "name": "built-for-the-long"
+ },
+ {
+  "file": "13-block-13",
+  "component": "Block13",
+  "name": "block-13"
+ },
+ {
+  "file": "14-trust-by-default",
+  "component": "TrustByDefault",
+  "name": "trust-by-default"
+ },
+ {
+  "file": "15-ask-more-from-crm",
+  "component": "AskMoreFromCrm",
+  "name": "ask-more-from-crm"
+ }
+]

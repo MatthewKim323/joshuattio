@@ -1,0 +1,37 @@
+[
+ {
+  "file": "00-apps-integrations",
+  "component": "AppsIntegrations",
+  "name": "apps-integrations"
+ },
+ {
+  "file": "01-divider",
+  "component": "Divider",
+  "name": "divider"
+ },
+ {
+  "file": "02-everything-you-need",
+  "component": "EverythingYouNeed",
+  "name": "everything-you-need"
+ },
+ {
+  "file": "03-divider-3",
+  "component": "Divider3",
+  "name": "divider-3"
+ },
+ {
+  "file": "04-discover-apps",
+  "component": "DiscoverApps",
+  "name": "discover-apps"
+ },
+ {
+  "file": "05-divider-5",
+  "component": "Divider5",
+  "name": "divider-5"
+ },
+ {
+  "file": "06-build-with-us",
+  "component": "BuildWithUs",
+  "name": "build-with-us"
+ }
+]

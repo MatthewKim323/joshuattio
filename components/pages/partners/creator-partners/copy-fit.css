@@ -1,0 +1,5 @@
+/* Breakpoint-only brand copy: the longer name adds a line at these widths. */
+.cp-at-xl { display: none; }
+@media (min-width: 1200px) { .cp-at-xl { display: inline; } .cp-below-xl { display: none; } }
+.cp-md-lg { display: none; }
+@media (min-width: 768px) and (max-width: 1199.98px) { .cp-md-lg { display: inline; } .cp-not-md-lg { display: none; } }

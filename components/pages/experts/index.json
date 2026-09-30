@@ -1,0 +1,22 @@
+[
+ {
+  "file": "hero",
+  "component": "ExpertsHero",
+  "name": "hero"
+ },
+ {
+  "file": "directory",
+  "component": "ExpertsDirectory",
+  "name": "directory"
+ },
+ {
+  "file": "apply",
+  "component": "ExpertsApply",
+  "name": "apply"
+ },
+ {
+  "file": "footer",
+  "component": "ExpertsFooter",
+  "name": "footer"
+ }
+]

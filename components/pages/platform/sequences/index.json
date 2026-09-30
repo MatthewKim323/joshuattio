@@ -1,0 +1,72 @@
+[
+ {
+  "file": "00-sequences",
+  "component": "Sequences",
+  "name": "sequences"
+ },
+ {
+  "file": "01-block",
+  "component": "Block",
+  "name": "block"
+ },
+ {
+  "file": "02-step-inside-sequences",
+  "component": "StepInsideSequences",
+  "name": "step-inside-sequences"
+ },
+ {
+  "file": "03-block-3",
+  "component": "Block3",
+  "name": "block-3"
+ },
+ {
+  "file": "04-zero-touch-follow-ups",
+  "component": "ZeroTouchFollowUps",
+  "name": "zero-touch-follow-ups"
+ },
+ {
+  "file": "05-block-5",
+  "component": "Block5",
+  "name": "block-5"
+ },
+ {
+  "file": "06-block-6",
+  "component": "Block6",
+  "name": "block-6"
+ },
+ {
+  "file": "07-block-7",
+  "component": "Block7",
+  "name": "block-7"
+ },
+ {
+  "file": "08-handwritten-warmth",
+  "component": "HandwrittenWarmth",
+  "name": "handwritten-warmth"
+ },
+ {
+  "file": "09-block-9",
+  "component": "Block9",
+  "name": "block-9"
+ },
+ {
+  "file": "10-every-interaction-in-joshuattio",
+  "component": "EveryInteractionInJoshuattio",
+  "name": "every-interaction-in-joshuattio"
+ },
+ {
+  "file": "11-block-11",
+  "component": "Block11",
+  "name": "block-11"
+ },
+ {
+  "file": "12-joshuattio-plugs-in-you",
+  "component": "JoshuattioPlugsInYou",
+  "name": "joshuattio-plugs-in-you"
+ },
+ {
+  "file": "13-cta",
+  "component": "Cta",
+  "name": "cta"
+ }
+]

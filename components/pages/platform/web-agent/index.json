@@ -1,0 +1,62 @@
+[
+ {
+  "file": "00-one-question-every-account",
+  "component": "OneQuestionEveryAccount",
+  "name": "one-question-every-account"
+ },
+ {
+  "file": "01-block",
+  "component": "Block",
+  "name": "block"
+ },
+ {
+  "file": "02-logos",
+  "component": "Logos",
+  "name": "logos"
+ },
+ {
+  "file": "03-block-3",
+  "component": "Block3",
+  "name": "block-3"
+ },
+ {
+  "file": "04-context-for-your-next",
+  "component": "ContextForYourNext",
+  "name": "context-for-your-next"
+ },
+ {
+  "file": "05-block-5",
+  "component": "Block5",
+  "name": "block-5"
+ },
+ {
+  "file": "06-you-can-always-check",
+  "component": "YouCanAlwaysCheck",
+  "name": "you-can-always-check"
+ },
+ {
+  "file": "07-block-7",
+  "component": "Block7",
+  "name": "block-7"
+ },
+ {
+  "file": "08-the-only-limit-is",
+  "component": "TheOnlyLimitIs",
+  "name": "the-only-limit-is"
+ },
+ {
+  "file": "09-block-9",
+  "component": "Block9",
+  "name": "block-9"
+ },
+ {
+  "file": "10-every-account-same-standard",
+  "component": "EveryAccountSameStandard",
+  "name": "every-account-same-standard"
+ },
+ {
+  "file": "11-ask-more-from-crm",
+  "component": "AskMoreFromCrm",
+  "name": "ask-more-from-crm"
+ }
+]

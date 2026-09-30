@@ -1,0 +1,12 @@
+[
+ {
+  "file": "00-how-taskrabbit-is-scaling",
+  "component": "HowTaskrabbitIsScaling",
+  "name": "how-taskrabbit-is-scaling"
+ },
+ {
+  "file": "01-the-crm-behind-thousands",
+  "component": "TheCrmBehindThousands",
+  "name": "the-crm-behind-thousands"
+ }
+]

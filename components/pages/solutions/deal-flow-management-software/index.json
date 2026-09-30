@@ -1,0 +1,37 @@
+[
+ {
+  "file": "00-deal-flow-crm",
+  "component": "DealFlowCrm",
+  "name": "deal-flow-crm"
+ },
+ {
+  "file": "01-block",
+  "component": "Block",
+  "name": "block"
+ },
+ {
+  "file": "02-organize",
+  "component": "Organize",
+  "name": "organize"
+ },
+ {
+  "file": "03-pipeline-management",
+  "component": "PipelineManagement",
+  "name": "pipeline-management"
+ },
+ {
+  "file": "04-and-that-s-not",
+  "component": "AndThatSNot",
+  "name": "and-that-s-not"
+ },
+ {
+  "file": "05-block-5",
+  "component": "Block5",
+  "name": "block-5"
+ },
+ {
+  "file": "06-cta",
+  "component": "Cta",
+  "name": "cta"
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "file": "00-privacy-policy",
+  "component": "PrivacyPolicy",
+  "name": "privacy-policy"
+ },
+ {
+  "file": "01-block",
+  "component": "Block",
+  "name": "block"
+ },
+ {
+  "file": "02-block-2",
+  "component": "Block2",
+  "name": "block-2"
+ },
+ {
+  "file": "03-1-introduction",
+  "component": "S1Introduction",
+  "name": "1-introduction"
+ }
+]

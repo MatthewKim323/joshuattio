@@ -1,0 +1,57 @@
+[
+ {
+  "file": "00-reporting",
+  "component": "Reporting",
+  "name": "reporting"
+ },
+ {
+  "file": "01-block",
+  "component": "Block",
+  "name": "block"
+ },
+ {
+  "file": "02-logos",
+  "component": "Logos",
+  "name": "logos"
+ },
+ {
+  "file": "03-block-3",
+  "component": "Block3",
+  "name": "block-3"
+ },
+ {
+  "file": "04-reporting-engine-for-gtm",
+  "component": "ReportingEngineForGtm",
+  "name": "reporting-engine-for-gtm"
+ },
+ {
+  "file": "05-block-5",
+  "component": "Block5",
+  "name": "block-5"
+ },
+ {
+  "file": "06-open-the-number",
+  "component": "OpenTheNumber",
+  "name": "open-the-number"
+ },
+ {
+  "file": "07-block-7",
+  "component": "Block7",
+  "name": "block-7"
+ },
+ {
+  "file": "08-joshuattio-does-the-math",
+  "component": "JoshuattioDoesTheMath",
+  "name": "joshuattio-does-the-math"
+ },
+ {
+  "file": "09-block-9",
+  "component": "Block9",
+  "name": "block-9"
+ },
+ {
+  "file": "10-cta",
+  "component": "Cta",
+  "name": "cta"
+ }
+]

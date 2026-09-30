@@ -1,0 +1,27 @@
+[
+ {
+  "file": "00-what-ai-can-t",
+  "component": "WhatAiCanT",
+  "name": "what-ai-can-t"
+ },
+ {
+  "file": "01-divider",
+  "component": "Divider",
+  "name": "divider"
+ },
+ {
+  "file": "02-latest-articles",
+  "component": "LatestArticles",
+  "name": "latest-articles"
+ },
+ {
+  "file": "03-divider-3",
+  "component": "Divider3",
+  "name": "divider-3"
+ },
+ {
+  "file": "04-block",
+  "component": "Block",
+  "name": "block"
+ }
+]

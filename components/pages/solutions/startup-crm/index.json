@@ -1,0 +1,42 @@
+[
+ {
+  "file": "00-crm-for-startups",
+  "component": "CrmForStartups",
+  "name": "crm-for-startups"
+ },
+ {
+  "file": "01-block",
+  "component": "Block",
+  "name": "block"
+ },
+ {
+  "file": "02-from-zero-to-one",
+  "component": "FromZeroToOne",
+  "name": "from-zero-to-one"
+ },
+ {
+  "file": "03-block-3",
+  "component": "Block3",
+  "name": "block-3"
+ },
+ {
+  "file": "04-pipeline-management",
+  "component": "PipelineManagement",
+  "name": "pipeline-management"
+ },
+ {
+  "file": "05-and-that-s-not",
+  "component": "AndThatSNot",
+  "name": "and-that-s-not"
+ },
+ {
+  "file": "06-block-6",
+  "component": "Block6",
+  "name": "block-6"
+ },
+ {
+  "file": "07-cta",
+  "component": "Cta",
+  "name": "cta"
+ }
+]
